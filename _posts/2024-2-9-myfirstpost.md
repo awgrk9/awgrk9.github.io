@@ -1,7 +1,6 @@
----
-layout: page
+d---layout: page
 title: TestingAPost
-permalink: /about/
+permalink: /firstpostfool/
 ---
 
 
