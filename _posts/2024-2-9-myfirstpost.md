@@ -1,6 +1,6 @@
 d---layout: page
 title: TestingAPost
-permalink: /firstpostfool/
+permalink: /myfirstpost/
 ---
 
 
